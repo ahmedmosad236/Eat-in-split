@@ -1,4 +1,4 @@
-# Travel List App
+# Eat-in-split App
 
 ##  what the application does
 This application allows you to split the bill with your friend.
